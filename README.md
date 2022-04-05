@@ -14,4 +14,4 @@ Another example:
 
 <img width="996" alt="Screen Shot 2022-03-29 at 8 25 39 PM" src="https://user-images.githubusercontent.com/102486685/160727240-bf1b580b-f8f1-4487-af74-5949f894ec0f.png">
 
-The **allwords.txt** file contains a list of all words in the English language. The `CrosswordHelper.java` file is a class with two methods, findWords, which takes a string with ?s representing blanks and returns of a list of all words that could be played in that space, and the main method, which handles user input and prints the list of words.
+The allwords.txt file contains a list of all words in the English language. The `CrosswordHelper.java` file is a class with two methods, `findWords`, which takes a string with ?s representing blanks and returns of a list of all words that could be played in that space, and the `main` method, which handles user input and prints the list of words.
